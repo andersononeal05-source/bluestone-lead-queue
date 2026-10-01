@@ -1,0 +1,25 @@
+{
+  "leadgenId": "1615037917012968",
+  "formId": "1120225733853242",
+  "formName": "Window Cleaning Service Plans",
+  "createdTime": "2026-10-01T15:01:21+0000",
+  "fullName": "Mary Ellen Clark",
+  "phone": "",
+  "email": "meclark077@aol.com",
+  "address": "18  Village Place",
+  "customAnswers": [
+    {
+      "question": "how many stories is your house",
+      "answer": "2"
+    },
+    {
+      "question": "phone number",
+      "answer": "+12059158610"
+    },
+    {
+      "question": "what kind of plan are you interested in",
+      "answer": "one time clean"
+    }
+  ],
+  "queuedAt": "2026-10-01T15:01:24.308Z"
+}
