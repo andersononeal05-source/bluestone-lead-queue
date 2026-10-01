@@ -1,0 +1,25 @@
+{
+  "leadgenId": "1600876924837946",
+  "formId": "1399475338449297",
+  "formName": "Window Cleaning Service Plans",
+  "createdTime": "2026-10-01T17:42:11+0000",
+  "fullName": "Griffin",
+  "phone": "",
+  "email": "adogoneal@icloud.com",
+  "address": "737 west magnolia ave",
+  "customAnswers": [
+    {
+      "question": "how many stories is your house",
+      "answer": "1"
+    },
+    {
+      "question": "phone number",
+      "answer": "+12052344698"
+    },
+    {
+      "question": "what kind of plan are you interested in",
+      "answer": "quarterly "
+    }
+  ],
+  "queuedAt": "2026-10-01T17:43:39.284Z"
+}
