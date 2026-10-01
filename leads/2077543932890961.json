@@ -1,0 +1,21 @@
+{
+  "leadgenId": "2077543932890961",
+  "formId": "1399475338449297",
+  "formName": "Window Cleaning Service Plans",
+  "createdTime": "2026-10-01T18:34:30+0000",
+  "fullName": "griffin",
+  "phone": "+12052344698",
+  "email": "gdofishing@icloud.com",
+  "address": "169 oakmont rd",
+  "customAnswers": [
+    {
+      "question": "how many stories is your house",
+      "answer": "2"
+    },
+    {
+      "question": "what kind of plan are you interested in",
+      "answer": "semi-annual"
+    }
+  ],
+  "queuedAt": "2026-10-01T18:34:33.671Z"
+}
