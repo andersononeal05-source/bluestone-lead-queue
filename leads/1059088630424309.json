@@ -1,0 +1,21 @@
+{
+  "leadgenId": "1059088630424309",
+  "formId": "1120225733853242",
+  "formName": "Window Cleaning Service Plans",
+  "createdTime": "2026-10-03T17:57:08+0000",
+  "fullName": "Scott McClanahan",
+  "phone": "+12053108152",
+  "email": "Scottmcclanahan@me.com",
+  "address": "3145 Guilford Road",
+  "customAnswers": [
+    {
+      "question": "how many stories is your house",
+      "answer": "3"
+    },
+    {
+      "question": "what kind of plan are you interested in",
+      "answer": "quarterly "
+    }
+  ],
+  "queuedAt": "2026-10-03T17:57:15.423Z"
+}
