@@ -1,0 +1,21 @@
+{
+  "leadgenId": "1620211786471534",
+  "formId": "1120225733853242",
+  "formName": "Window Cleaning Service Plans",
+  "createdTime": "2026-10-05T18:30:29+0000",
+  "fullName": "Donna Coughlin Huggins",
+  "phone": "+12054225481",
+  "email": "nobagman@aol.com",
+  "address": "2606 Carriage Place",
+  "customAnswers": [
+    {
+      "question": "how many stories is your house",
+      "answer": "2"
+    },
+    {
+      "question": "what kind of plan are you interested in",
+      "answer": "quarterly "
+    }
+  ],
+  "queuedAt": "2026-10-05T18:30:45.184Z"
+}
