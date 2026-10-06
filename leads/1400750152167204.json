@@ -1,0 +1,21 @@
+{
+  "leadgenId": "1400750152167204",
+  "formId": "1120225733853242",
+  "formName": "Window Cleaning Service Plans",
+  "createdTime": "2026-10-06T20:38:51+0000",
+  "fullName": "JL Shaia",
+  "phone": "+12054103368",
+  "email": "jl@shaias.com",
+  "address": "1301 Branchwater Ln",
+  "customAnswers": [
+    {
+      "question": "how many stories is your house",
+      "answer": "1"
+    },
+    {
+      "question": "what kind of plan are you interested in",
+      "answer": "one time clean"
+    }
+  ],
+  "queuedAt": "2026-10-06T20:38:58.238Z"
+}
