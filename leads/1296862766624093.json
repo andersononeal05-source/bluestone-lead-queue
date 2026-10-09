@@ -1,0 +1,21 @@
+{
+  "leadgenId": "1296862766624093",
+  "formId": "1120225733853242",
+  "formName": "Window Cleaning Service Plans",
+  "createdTime": "2026-10-09T01:27:04+0000",
+  "fullName": "Tracy Burch Davis",
+  "phone": "+12058375712",
+  "email": "tdavis9313@yahoo.com",
+  "address": "406 BALLANTRAE RD",
+  "customAnswers": [
+    {
+      "question": "how many stories is your house",
+      "answer": "2"
+    },
+    {
+      "question": "what kind of plan are you interested in",
+      "answer": "semi-annual"
+    }
+  ],
+  "queuedAt": "2026-10-09T01:27:08.101Z"
+}
