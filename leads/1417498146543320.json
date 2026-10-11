@@ -1,0 +1,21 @@
+{
+  "leadgenId": "1417498146543320",
+  "formId": "1120225733853242",
+  "formName": "Window Cleaning Service Plans",
+  "createdTime": "2026-10-11T02:52:26+0000",
+  "fullName": "Tony Briotta",
+  "phone": "+18435347789",
+  "email": "cambermolly@yahoo.com",
+  "address": "2940 Riverwood Lane",
+  "customAnswers": [
+    {
+      "question": "how many stories is your house",
+      "answer": "2"
+    },
+    {
+      "question": "what kind of plan are you interested in",
+      "answer": "semi-annual"
+    }
+  ],
+  "queuedAt": "2026-10-11T02:52:33.310Z"
+}
