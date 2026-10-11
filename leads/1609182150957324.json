@@ -1,0 +1,21 @@
+{
+  "leadgenId": "1609182150957324",
+  "formId": "1120225733853242",
+  "formName": "Window Cleaning Service Plans",
+  "createdTime": "2026-10-11T18:49:39+0000",
+  "fullName": "Dianne Tina Trippitelli Davis",
+  "phone": "+12052492806",
+  "email": "diannet.davis3@gmail.com",
+  "address": "2111 Shades Ave.",
+  "customAnswers": [
+    {
+      "question": "how many stories is your house",
+      "answer": "1"
+    },
+    {
+      "question": "what kind of plan are you interested in",
+      "answer": "semi-annual"
+    }
+  ],
+  "queuedAt": "2026-10-11T18:49:44.519Z"
+}
