@@ -1,0 +1,21 @@
+{
+  "leadgenId": "1083131184700774",
+  "formId": "1399475338449297",
+  "formName": "Window Cleaning Service Plans",
+  "createdTime": "2026-10-14T23:42:41+0000",
+  "fullName": "Jean Jenkins",
+  "phone": "+12054419616",
+  "email": "jenkins1261@aol.com",
+  "address": "220 Highgate Hill Road",
+  "customAnswers": [
+    {
+      "question": "how many stories is your house",
+      "answer": "2"
+    },
+    {
+      "question": "what kind of plan are you interested in",
+      "answer": "semi-annual"
+    }
+  ],
+  "queuedAt": "2026-10-14T23:42:45.793Z"
+}
